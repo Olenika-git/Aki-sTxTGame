@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akine\\Desktop\\Projet C#\\AventureTexte\\AventureTexte.csproj": {}
+    "C:\\Users\\akine\\Desktop\\Projet C#\\Aki-sTxTGame\\AventureTexte.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akine\\Desktop\\Projet C#\\AventureTexte\\AventureTexte.csproj": {
+    "C:\\Users\\akine\\Desktop\\Projet C#\\Aki-sTxTGame\\AventureTexte.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akine\\Desktop\\Projet C#\\AventureTexte\\AventureTexte.csproj",
+        "projectUniqueName": "C:\\Users\\akine\\Desktop\\Projet C#\\Aki-sTxTGame\\AventureTexte.csproj",
         "projectName": "AventureTexte",
-        "projectPath": "C:\\Users\\akine\\Desktop\\Projet C#\\AventureTexte\\AventureTexte.csproj",
+        "projectPath": "C:\\Users\\akine\\Desktop\\Projet C#\\Aki-sTxTGame\\AventureTexte.csproj",
         "packagesPath": "C:\\Users\\akine\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akine\\Desktop\\Projet C#\\AventureTexte\\obj\\",
+        "outputPath": "C:\\Users\\akine\\Desktop\\Projet C#\\Aki-sTxTGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\akine\\AppData\\Roaming\\NuGet\\NuGet.Config",
