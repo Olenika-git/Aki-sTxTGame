@@ -30,8 +30,8 @@ namespace AventureTexte
         {
             Console.WriteLine("Je constate que tu est réveillé, je suis Démétrius, Maire de Chouville,\n " +
                 "Tu as l'air sacrément amoché, tu devrais aller voir Hernest le Technisham du Village,\n" +
-                "Devrais-je suivre les conseils de Démétrius ? ou quitter le village " +
-                "à la recherche d'informations sur ce qui m'est arrivé ?\n" +
+                "Devrais-je suivre les conseils de Démétrius ? ou quitter le village\n" +
+                "Ou quitter le village à la recherche d'informations sur ce qui m'est arrivé ?\n" +
                 "rester ou quitter ?");
 
             while (direction != "rester" || direction != "quitter")
