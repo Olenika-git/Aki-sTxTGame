@@ -11,3 +11,16 @@ C:\Users\akine\Desktop\Projet C#\AventureTexte\obj\Debug\netcoreapp3.1\AventureT
 C:\Users\akine\Desktop\Projet C#\AventureTexte\obj\Debug\netcoreapp3.1\AventureTexte.dll
 C:\Users\akine\Desktop\Projet C#\AventureTexte\obj\Debug\netcoreapp3.1\AventureTexte.pdb
 C:\Users\akine\Desktop\Projet C#\AventureTexte\obj\Debug\netcoreapp3.1\AventureTexte.genruntimeconfig.cache
+C:\Users\akine\Desktop\Projet C#\Aki-sTxTGame\bin\Debug\netcoreapp3.1\AventureTexte.exe
+C:\Users\akine\Desktop\Projet C#\Aki-sTxTGame\bin\Debug\netcoreapp3.1\AventureTexte.deps.json
+C:\Users\akine\Desktop\Projet C#\Aki-sTxTGame\bin\Debug\netcoreapp3.1\AventureTexte.runtimeconfig.json
+C:\Users\akine\Desktop\Projet C#\Aki-sTxTGame\bin\Debug\netcoreapp3.1\AventureTexte.runtimeconfig.dev.json
+C:\Users\akine\Desktop\Projet C#\Aki-sTxTGame\bin\Debug\netcoreapp3.1\AventureTexte.dll
+C:\Users\akine\Desktop\Projet C#\Aki-sTxTGame\bin\Debug\netcoreapp3.1\AventureTexte.pdb
+C:\Users\akine\Desktop\Projet C#\Aki-sTxTGame\obj\Debug\netcoreapp3.1\AventureTexte.csproj.AssemblyReference.cache
+C:\Users\akine\Desktop\Projet C#\Aki-sTxTGame\obj\Debug\netcoreapp3.1\AventureTexte.AssemblyInfoInputs.cache
+C:\Users\akine\Desktop\Projet C#\Aki-sTxTGame\obj\Debug\netcoreapp3.1\AventureTexte.AssemblyInfo.cs
+C:\Users\akine\Desktop\Projet C#\Aki-sTxTGame\obj\Debug\netcoreapp3.1\AventureTexte.csproj.CoreCompileInputs.cache
+C:\Users\akine\Desktop\Projet C#\Aki-sTxTGame\obj\Debug\netcoreapp3.1\AventureTexte.dll
+C:\Users\akine\Desktop\Projet C#\Aki-sTxTGame\obj\Debug\netcoreapp3.1\AventureTexte.pdb
+C:\Users\akine\Desktop\Projet C#\Aki-sTxTGame\obj\Debug\netcoreapp3.1\AventureTexte.genruntimeconfig.cache
